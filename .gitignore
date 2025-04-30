@@ -1,0 +1,5 @@
+# Log files
+*.log
+
+# Configuration files
+config.json 
