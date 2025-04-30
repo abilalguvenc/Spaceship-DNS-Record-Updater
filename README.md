@@ -56,7 +56,7 @@ The application uses a `config.json` file for settings. On first run, it will cr
 
 ## Usage
 
-1. Run the application using the shortcut `Spaceship Record Updater`.
+1. Run the application using the cmd file `app/SpaceshipRecordUpdater.cmd`.
 
 2. The application will:
    - Start in the system tray
